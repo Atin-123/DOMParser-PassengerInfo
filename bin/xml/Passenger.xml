@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Passenger xmlns:tns="http://www.example.org/Passenger" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Passenger Passenger.xsd ">
+  <tns:name>Ravi</tns:name>
+  <tns:dob>2023-02-12</tns:dob>
+  <tns:seatno>32</tns:seatno>
+  <tns:gender>m</tns:gender>
+</tns:Passenger>
